@@ -4,3 +4,4 @@ css学习示例
 [fixed.html](https://github.com/pmzssc/cssex/blob/master/fixed.html)
 ![image](http://7qn8gq.com1.z0.glb.clouddn.com/fixed.png)
 ![xide](http://7qn8gq.com1.z0.glb.clouddn.com/20180810123856.png)
+![dddd](http://7qn8gq.com1.z0.glb.clouddn.com/20180810124116.png)
